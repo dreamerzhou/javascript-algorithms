@@ -1,0 +1,8 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:dreamerzhou/javascript-algorithms.git",
+  "author": "wenqi <1834620296@qq.com>",
+  "license": "MIT"
+}
